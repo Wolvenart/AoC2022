@@ -1,0 +1,12 @@
+D:\Projects\AoC\2022\AoC2022\AoCHelper\bin\Debug\net6.0\AoCHelper.deps.json
+D:\Projects\AoC\2022\AoC2022\AoCHelper\bin\Debug\net6.0\AoCHelper.dll
+D:\Projects\AoC\2022\AoC2022\AoCHelper\bin\Debug\net6.0\AoCHelper.pdb
+D:\Projects\AoC\2022\AoC2022\AoCHelper\obj\Debug\net6.0\AoCHelper.csproj.AssemblyReference.cache
+D:\Projects\AoC\2022\AoC2022\AoCHelper\obj\Debug\net6.0\AoCHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AoC\2022\AoC2022\AoCHelper\obj\Debug\net6.0\AoCHelper.AssemblyInfoInputs.cache
+D:\Projects\AoC\2022\AoC2022\AoCHelper\obj\Debug\net6.0\AoCHelper.AssemblyInfo.cs
+D:\Projects\AoC\2022\AoC2022\AoCHelper\obj\Debug\net6.0\AoCHelper.csproj.CoreCompileInputs.cache
+D:\Projects\AoC\2022\AoC2022\AoCHelper\obj\Debug\net6.0\AoCHelper.dll
+D:\Projects\AoC\2022\AoC2022\AoCHelper\obj\Debug\net6.0\refint\AoCHelper.dll
+D:\Projects\AoC\2022\AoC2022\AoCHelper\obj\Debug\net6.0\AoCHelper.pdb
+D:\Projects\AoC\2022\AoC2022\AoCHelper\obj\Debug\net6.0\ref\AoCHelper.dll

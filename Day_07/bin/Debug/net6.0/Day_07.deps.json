@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Day_07/1.0.0": {
+        "dependencies": {
+          "AoCHelper": "1.0.0"
+        },
+        "runtime": {
+          "Day_07.dll": {}
+        }
+      },
+      "AoCHelper/1.0.0": {
+        "runtime": {
+          "AoCHelper.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day_07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AoCHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

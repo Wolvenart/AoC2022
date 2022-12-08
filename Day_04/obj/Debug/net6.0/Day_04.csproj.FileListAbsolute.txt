@@ -1,0 +1,14 @@
+D:\Projects\AoC\2022\AoC2022\Day_04\bin\Debug\net6.0\Day_04.deps.json
+D:\Projects\AoC\2022\AoC2022\Day_04\bin\Debug\net6.0\Day_04.dll
+D:\Projects\AoC\2022\AoC2022\Day_04\bin\Debug\net6.0\Day_04.pdb
+D:\Projects\AoC\2022\AoC2022\Day_04\obj\Debug\net6.0\Day_04.csproj.AssemblyReference.cache
+D:\Projects\AoC\2022\AoC2022\Day_04\obj\Debug\net6.0\Day_04.Properties.Resources.resources
+D:\Projects\AoC\2022\AoC2022\Day_04\obj\Debug\net6.0\Day_04.csproj.GenerateResource.cache
+D:\Projects\AoC\2022\AoC2022\Day_04\obj\Debug\net6.0\Day_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AoC\2022\AoC2022\Day_04\obj\Debug\net6.0\Day_04.AssemblyInfoInputs.cache
+D:\Projects\AoC\2022\AoC2022\Day_04\obj\Debug\net6.0\Day_04.AssemblyInfo.cs
+D:\Projects\AoC\2022\AoC2022\Day_04\obj\Debug\net6.0\Day_04.csproj.CoreCompileInputs.cache
+D:\Projects\AoC\2022\AoC2022\Day_04\obj\Debug\net6.0\Day_04.dll
+D:\Projects\AoC\2022\AoC2022\Day_04\obj\Debug\net6.0\refint\Day_04.dll
+D:\Projects\AoC\2022\AoC2022\Day_04\obj\Debug\net6.0\Day_04.pdb
+D:\Projects\AoC\2022\AoC2022\Day_04\obj\Debug\net6.0\ref\Day_04.dll

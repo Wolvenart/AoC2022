@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Day_01\Day_01.csproj" />
+    <ProjectReference Include="..\Day_02\Day_02.csproj" />
+    <ProjectReference Include="..\Day_03\Day_03.csproj" />
+    <ProjectReference Include="..\Day_04\Day_04.csproj" />
+    <ProjectReference Include="..\Day_05\Day_05.csproj" />
+    <ProjectReference Include="..\Day_06\Day_06.csproj" />
+    <ProjectReference Include="..\Day_07\Day_07.csproj" />
+    <ProjectReference Include="..\Day_08\Day_08.csproj" />
+  </ItemGroup>
+
+</Project>

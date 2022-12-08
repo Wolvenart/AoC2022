@@ -1,0 +1,129 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AoC2022/1.0.0": {
+        "dependencies": {
+          "Day_01": "1.0.0",
+          "Day_02": "1.0.0",
+          "Day_03": "1.0.0",
+          "Day_04": "1.0.0",
+          "Day_05": "1.0.0",
+          "Day_06": "1.0.0",
+          "Day_07": "1.0.0",
+          "Day_08": "1.0.0"
+        },
+        "runtime": {
+          "AoC2022.dll": {}
+        }
+      },
+      "AoCHelper/1.0.0": {
+        "runtime": {
+          "AoCHelper.dll": {}
+        }
+      },
+      "Day_01/1.0.0": {
+        "runtime": {
+          "Day_01.dll": {}
+        }
+      },
+      "Day_02/1.0.0": {
+        "runtime": {
+          "Day_02.dll": {}
+        }
+      },
+      "Day_03/1.0.0": {
+        "runtime": {
+          "Day_03.dll": {}
+        }
+      },
+      "Day_04/1.0.0": {
+        "runtime": {
+          "Day_04.dll": {}
+        }
+      },
+      "Day_05/1.0.0": {
+        "runtime": {
+          "Day_05.dll": {}
+        }
+      },
+      "Day_06/1.0.0": {
+        "runtime": {
+          "Day_06.dll": {}
+        }
+      },
+      "Day_07/1.0.0": {
+        "dependencies": {
+          "AoCHelper": "1.0.0"
+        },
+        "runtime": {
+          "Day_07.dll": {}
+        }
+      },
+      "Day_08/1.0.0": {
+        "dependencies": {
+          "AoCHelper": "1.0.0"
+        },
+        "runtime": {
+          "Day_08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AoC2022/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AoCHelper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day_01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day_02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day_03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day_04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day_05/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day_06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day_07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day_08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "AoCHelper/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AoCHelper.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AoCHelper.dll": {}
+        }
+      },
+      "Day_01/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Day_01.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_01.dll": {}
+        }
+      },
+      "Day_02/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Day_02.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_02.dll": {}
+        }
+      },
+      "Day_03/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Day_03.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_03.dll": {}
+        }
+      },
+      "Day_04/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Day_04.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_04.dll": {}
+        }
+      },
+      "Day_05/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Day_05.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_05.dll": {}
+        }
+      },
+      "Day_06/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Day_06.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_06.dll": {}
+        }
+      },
+      "Day_07/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AoCHelper": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_07.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_07.dll": {}
+        }
+      },
+      "Day_08/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AoCHelper": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Day_08.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_08.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AoCHelper/1.0.0": {
+      "type": "project",
+      "path": "../AoCHelper/AoCHelper.csproj",
+      "msbuildProject": "../AoCHelper/AoCHelper.csproj"
+    },
+    "Day_01/1.0.0": {
+      "type": "project",
+      "path": "../Day_01/Day_01.csproj",
+      "msbuildProject": "../Day_01/Day_01.csproj"
+    },
+    "Day_02/1.0.0": {
+      "type": "project",
+      "path": "../Day_02/Day_02.csproj",
+      "msbuildProject": "../Day_02/Day_02.csproj"
+    },
+    "Day_03/1.0.0": {
+      "type": "project",
+      "path": "../Day_03/Day_03.csproj",
+      "msbuildProject": "../Day_03/Day_03.csproj"
+    },
+    "Day_04/1.0.0": {
+      "type": "project",
+      "path": "../Day_04/Day_04.csproj",
+      "msbuildProject": "../Day_04/Day_04.csproj"
+    },
+    "Day_05/1.0.0": {
+      "type": "project",
+      "path": "../Day_05/Day_05.csproj",
+      "msbuildProject": "../Day_05/Day_05.csproj"
+    },
+    "Day_06/1.0.0": {
+      "type": "project",
+      "path": "../Day_06/Day_06.csproj",
+      "msbuildProject": "../Day_06/Day_06.csproj"
+    },
+    "Day_07/1.0.0": {
+      "type": "project",
+      "path": "../Day_07/Day_07.csproj",
+      "msbuildProject": "../Day_07/Day_07.csproj"
+    },
+    "Day_08/1.0.0": {
+      "type": "project",
+      "path": "../Day_08/Day_08.csproj",
+      "msbuildProject": "../Day_08/Day_08.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Day_01 >= 1.0.0",
+      "Day_02 >= 1.0.0",
+      "Day_03 >= 1.0.0",
+      "Day_04 >= 1.0.0",
+      "Day_05 >= 1.0.0",
+      "Day_06 >= 1.0.0",
+      "Day_07 >= 1.0.0",
+      "Day_08 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Wolve\\.nuget\\packages\\": {},
+    "D:\\SDK\\DevExpress\\Components\\Offline Packages": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Projects\\AoC\\2022\\AoC2022\\AoC2022\\AoC2022.csproj",
+      "projectName": "AoC2022",
+      "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\AoC2022\\AoC2022.csproj",
+      "packagesPath": "C:\\Users\\Wolve\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\AoC\\2022\\AoC2022\\AoC2022\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "D:\\SDK\\DevExpress\\Components\\Offline Packages",
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Wolve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\SDK\\DevExpress\\Components\\System\\Components\\Packages": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Projects\\AoC\\2022\\AoC2022\\Day_01\\Day_01.csproj": {
+              "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_01\\Day_01.csproj"
+            },
+            "D:\\Projects\\AoC\\2022\\AoC2022\\Day_02\\Day_02.csproj": {
+              "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_02\\Day_02.csproj"
+            },
+            "D:\\Projects\\AoC\\2022\\AoC2022\\Day_03\\Day_03.csproj": {
+              "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_03\\Day_03.csproj"
+            },
+            "D:\\Projects\\AoC\\2022\\AoC2022\\Day_04\\Day_04.csproj": {
+              "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_04\\Day_04.csproj"
+            },
+            "D:\\Projects\\AoC\\2022\\AoC2022\\Day_05\\Day_05.csproj": {
+              "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_05\\Day_05.csproj"
+            },
+            "D:\\Projects\\AoC\\2022\\AoC2022\\Day_06\\Day_06.csproj": {
+              "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_06\\Day_06.csproj"
+            },
+            "D:\\Projects\\AoC\\2022\\AoC2022\\Day_07\\Day_07.csproj": {
+              "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_07\\Day_07.csproj"
+            },
+            "D:\\Projects\\AoC\\2022\\AoC2022\\Day_08\\Day_08.csproj": {
+              "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_08\\Day_08.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
