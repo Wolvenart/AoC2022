@@ -70,7 +70,7 @@ namespace Day_06.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to mjqjpqmgbljsphdztnvjfqwrcgsmlb.
+        ///   Looks up a localized string similar to bvwbjplbgvbhsrlpgdmjqwftvncz.
         /// </summary>
         internal static string TestInput {
             get {

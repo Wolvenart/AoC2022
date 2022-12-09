@@ -15,7 +15,8 @@
           "Day_05": "1.0.0",
           "Day_06": "1.0.0",
           "Day_07": "1.0.0",
-          "Day_08": "1.0.0"
+          "Day_08": "1.0.0",
+          "Day_09": "1.0.0"
         },
         "runtime": {
           "AoC2022.dll": {}
@@ -71,6 +72,11 @@
         "runtime": {
           "Day_08.dll": {}
         }
+      },
+      "Day_09/1.0.0": {
+        "runtime": {
+          "Day_09.dll": {}
+        }
       }
     }
   },
@@ -121,6 +127,11 @@
       "sha512": ""
     },
     "Day_08/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Day_09/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

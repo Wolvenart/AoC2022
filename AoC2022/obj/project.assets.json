@@ -97,6 +97,16 @@
         "runtime": {
           "bin/placeholder/Day_08.dll": {}
         }
+      },
+      "Day_09/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Day_09.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Day_09.dll": {}
+        }
       }
     }
   },
@@ -145,6 +155,11 @@
       "type": "project",
       "path": "../Day_08/Day_08.csproj",
       "msbuildProject": "../Day_08/Day_08.csproj"
+    },
+    "Day_09/1.0.0": {
+      "type": "project",
+      "path": "../Day_09/Day_09.csproj",
+      "msbuildProject": "../Day_09/Day_09.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -156,7 +171,8 @@
       "Day_05 >= 1.0.0",
       "Day_06 >= 1.0.0",
       "Day_07 >= 1.0.0",
-      "Day_08 >= 1.0.0"
+      "Day_08 >= 1.0.0",
+      "Day_09 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -218,6 +234,9 @@
             },
             "D:\\Projects\\AoC\\2022\\AoC2022\\Day_08\\Day_08.csproj": {
               "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_08\\Day_08.csproj"
+            },
+            "D:\\Projects\\AoC\\2022\\AoC2022\\Day_09\\Day_09.csproj": {
+              "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_09\\Day_09.csproj"
             }
           }
         }
