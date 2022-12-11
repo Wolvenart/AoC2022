@@ -54,7 +54,13 @@
 #endregion
 
 #region Day 10
-Day_10.Main Day10 = new Day_10.Main(false);
-Console.WriteLine(Day10.Part1());
-Day10.Part2();
+//Day_10.Main Day10 = new Day_10.Main(false);
+//Console.WriteLine(Day10.Part1());
+//Day10.Part2();
+#endregion
+
+#region Day 11
+Day_11.Main Day11 = new Day_11.Main(false);
+Console.WriteLine(Day11.Part1());
+Console.WriteLine(Day11.Part2());
 #endregion

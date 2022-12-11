@@ -1,4 +1,6 @@
-﻿namespace Day_02
+﻿using AoCHelper;
+
+namespace Day_02
 {
     public class Main
     {
@@ -36,10 +38,7 @@
             public enRoundState Round { get; set; }
             public int Score { get => Convert.ToInt32(this.Me) + ((Convert.ToInt32(this.Round) + 1) * 3); }
         }
-        static int MathMod(int a, int b)
-        {
-            return (Math.Abs(a * b) + a) % b;
-        }
+
         private List<clsGame> Hands = new List<clsGame>()
         {
             { new clsGame() { Round = enRoundState.Win, Opponent = enStates.Rock, Me = enStates.Paper } },
@@ -76,7 +75,7 @@
                     {
                         if (me - opponent == 0)
                             return enRoundState.Draw;
-                        if (MathMod((me - opponent), 3) == 1)
+                        if ((me-opponent).MathMod(3) == 1)
                             return enRoundState.Win;
                         else
                             return enRoundState.Lose;

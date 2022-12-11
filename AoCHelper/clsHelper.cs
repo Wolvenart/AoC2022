@@ -19,5 +19,11 @@
         {
             return source ?? Enumerable.Empty<T>();
         }
+        public static int MathMod(this int a, int b)
+            => (Math.Abs(a * b) + a) % b;
+        public static long MathMod(this long a, long b)
+            => (Math.Abs(a * b) + a) % b;
+        public static long MathMod(this long a, int b)
+            => (Math.Abs(a * b) + a) % b;
     }
 }

@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\AoC\\2022\\AoC2022\\Day_02\\Day_02.csproj": {}
+    "D:\\Projects\\AoC\\2022\\AoC2022\\Day_11\\Day_11.csproj": {}
   },
   "projects": {
     "D:\\Projects\\AoC\\2022\\AoC2022\\AoCHelper\\AoCHelper.csproj": {
@@ -66,14 +66,14 @@
         }
       }
     },
-    "D:\\Projects\\AoC\\2022\\AoC2022\\Day_02\\Day_02.csproj": {
+    "D:\\Projects\\AoC\\2022\\AoC2022\\Day_11\\Day_11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_02\\Day_02.csproj",
-        "projectName": "Day_02",
-        "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_02\\Day_02.csproj",
+        "projectUniqueName": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_11\\Day_11.csproj",
+        "projectName": "Day_11",
+        "projectPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_11\\Day_11.csproj",
         "packagesPath": "C:\\Users\\Wolve\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_02\\obj\\",
+        "outputPath": "D:\\Projects\\AoC\\2022\\AoC2022\\Day_11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\SDK\\DevExpress\\Components\\Offline Packages",

@@ -5,16 +5,7 @@
         public class Instruction
         {
             int _runtime;
-            public int Runtime
-            {
-                get => _runtime;
-                set
-                {
-                    _runtime = value;
-                    if (value == 0)
-                        Register += this.RegisterModifier;
-                }
-            }
+            public int Runtime { get => _runtime; set { _runtime = value; if (value == 0) Register += this.RegisterModifier; } }
             public int RegisterModifier { get; set; }
             public Boolean HasRun { get => this.Runtime == 0; }
         }
